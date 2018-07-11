@@ -1,0 +1,32 @@
+.row{   
+    display:flex;
+    background-color:black;
+    color:white;
+    font-size:20px;
+    justify-content:center;
+    justify-content:space-around;
+}
+.solo{ font-family: 'Knewave', cursive;
+    color:#2be58e;
+    
+}
+#bd{ color : #f5f5dc;     
+    }
+.headshot{
+    width:20%;}
+.name{
+    font-size: 75px;
+    font-family: 'Gaegu', cursive;
+}
+
+.mid{
+    background-color:white;
+    color:#2be58e;
+    align-items:center;
+    font-size:50px;
+    margin-top:5px;
+    margin-bottom:5px;
+}
+.aboutme{
+    border:0px solid black;   
+}
